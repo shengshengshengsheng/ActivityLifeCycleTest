@@ -1,0 +1,2 @@
+# ActivityLifeCycleTest
+这是一个用于测试Android生命周期的程序
